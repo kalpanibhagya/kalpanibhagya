@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I’m a tech enthusiast with nearly three years of industry experience in .NET and C#. Currently, I'm a graduate student at the University of Oulu studying Artificial intelligence.
+⚡ I’m a tech enthusiast with 3+ years of industry experience in .NET and C#. Currently, I'm a graduate student at the University of Oulu (Artificial intelligence).
 
 
 <p>
