@@ -11,4 +11,4 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white&style=plastic" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalpanibhagya&count_private=true&theme=transparent&show_icons=true" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=kalpanibhagya&count_private=true&theme=transparent&show_icons=true" />-->
