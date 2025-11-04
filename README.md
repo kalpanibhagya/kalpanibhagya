@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I’m a tech enthusiast with 5+ years of industry experience in .NET, C# and machine learning.
+⚡ I’m a tech enthusiast with over 5 years of industry experience in .NET, C# and machine learning.
 
 
 <p>
