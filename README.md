@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I’m a tech enthusiast with over 5 years of industry experience in .NET, C#, Python, Angular, JavaScript, Blazor and Machine Learning.
+⚡ I’m a tech enthusiast with industry experience in .NET, C#, Python, Angular, JavaScript, Blazor and Machine Learning.
 
 
 <p>
@@ -12,6 +12,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" />
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=plastic" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=plastic" />
 </p>
 
 
